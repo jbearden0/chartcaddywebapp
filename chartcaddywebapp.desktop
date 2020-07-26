@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ChartCaddy
+Exec=webapp-container --app-id="chartcaddywebapp.nontrivial" $@ https://www.chartcaddy.com/app.html
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
